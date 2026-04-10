@@ -1,8 +1,7 @@
 # Sistema de Registro de Estudiantes
 
-<h1>usuario previamente guardado en la BD:</h1>
-<p>
-  user: admin
-  contraseña: 1234
-</p>
+<h2>usuario previamente guardado en la BD:</h2>
+
+<p>user: admin</p>
+<p>contraseña: 1234</p>
 
